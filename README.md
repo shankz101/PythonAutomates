@@ -4,7 +4,8 @@ Learning python through automation
 
 ## Installation
 
-Using pyenv to handle installation and versioning
+Using pyenv to handle installation and versioning\
+
 `brew install pyenv`\
 `brew update && brew upgrade pyenv`\
 `pyenv install 3.*.*`\
